@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C399CBB2718B8C20016822F /* TextMod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C399CBA2718B8C20016822F /* TextMod.swift */; };
+		2C9119CB271B43E5000E10AE /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9119CA271B43E5000E10AE /* Buttons.swift */; };
+		2C9119CD271C8EEE000E10AE /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9119CC271C8EEE000E10AE /* Images.swift */; };
+		2C9119CF271C9F55000E10AE /* TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9119CE271C9F55000E10AE /* TextFields.swift */; };
+		2C9119D1271CAADB000E10AE /* Dividers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9119D0271CAADB000E10AE /* Dividers.swift */; };
+		2C9119D3271DD0CD000E10AE /* HStackVStackSpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9119D2271DD0CD000E10AE /* HStackVStackSpacer.swift */; };
+		2C9119D5271F6E9F000E10AE /* ZStackPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9119D4271F6E9F000E10AE /* ZStackPadding.swift */; };
+		2C9119D7271FACD7000E10AE /* TabViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9119D6271FACD7000E10AE /* TabViews.swift */; };
+		2C9119D9271FB171000E10AE /* Navigations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9119D8271FB171000E10AE /* Navigations.swift */; };
+		2C9119DB271FD114000E10AE /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9119DA271FD114000E10AE /* Player.swift */; };
 		2CAC170927177677008A50CE /* PlatziApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CAC170827177677008A50CE /* PlatziApp.swift */; };
 		2CAC170B27177677008A50CE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CAC170A27177677008A50CE /* ContentView.swift */; };
 		2CAC170D2717767B008A50CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CAC170C2717767B008A50CE /* Assets.xcassets */; };
@@ -14,6 +24,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C399CBA2718B8C20016822F /* TextMod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextMod.swift; sourceTree = "<group>"; };
+		2C9119CA271B43E5000E10AE /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
+		2C9119CC271C8EEE000E10AE /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
+		2C9119CE271C9F55000E10AE /* TextFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFields.swift; sourceTree = "<group>"; };
+		2C9119D0271CAADB000E10AE /* Dividers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dividers.swift; sourceTree = "<group>"; };
+		2C9119D2271DD0CD000E10AE /* HStackVStackSpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStackVStackSpacer.swift; sourceTree = "<group>"; };
+		2C9119D4271F6E9F000E10AE /* ZStackPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackPadding.swift; sourceTree = "<group>"; };
+		2C9119D6271FACD7000E10AE /* TabViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViews.swift; sourceTree = "<group>"; };
+		2C9119D8271FB171000E10AE /* Navigations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigations.swift; sourceTree = "<group>"; };
+		2C9119DA271FD114000E10AE /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		2CAC170527177677008A50CE /* Platzi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Platzi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CAC170827177677008A50CE /* PlatziApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlatziApp.swift; sourceTree = "<group>"; };
 		2CAC170A27177677008A50CE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +73,16 @@
 			children = (
 				2CAC170827177677008A50CE /* PlatziApp.swift */,
 				2CAC170A27177677008A50CE /* ContentView.swift */,
+				2C399CBA2718B8C20016822F /* TextMod.swift */,
+				2C9119CA271B43E5000E10AE /* Buttons.swift */,
+				2C9119CC271C8EEE000E10AE /* Images.swift */,
+				2C9119CE271C9F55000E10AE /* TextFields.swift */,
+				2C9119D0271CAADB000E10AE /* Dividers.swift */,
+				2C9119D2271DD0CD000E10AE /* HStackVStackSpacer.swift */,
+				2C9119D4271F6E9F000E10AE /* ZStackPadding.swift */,
+				2C9119D6271FACD7000E10AE /* TabViews.swift */,
+				2C9119D8271FB171000E10AE /* Navigations.swift */,
+				2C9119DA271FD114000E10AE /* Player.swift */,
 				2CAC170C2717767B008A50CE /* Assets.xcassets */,
 				2CAC170E2717767B008A50CE /* Preview Content */,
 			);
@@ -137,8 +167,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C9119D5271F6E9F000E10AE /* ZStackPadding.swift in Sources */,
 				2CAC170B27177677008A50CE /* ContentView.swift in Sources */,
+				2C9119D1271CAADB000E10AE /* Dividers.swift in Sources */,
 				2CAC170927177677008A50CE /* PlatziApp.swift in Sources */,
+				2C9119DB271FD114000E10AE /* Player.swift in Sources */,
+				2C9119D3271DD0CD000E10AE /* HStackVStackSpacer.swift in Sources */,
+				2C9119CD271C8EEE000E10AE /* Images.swift in Sources */,
+				2C9119D7271FACD7000E10AE /* TabViews.swift in Sources */,
+				2C399CBB2718B8C20016822F /* TextMod.swift in Sources */,
+				2C9119CB271B43E5000E10AE /* Buttons.swift in Sources */,
+				2C9119D9271FB171000E10AE /* Navigations.swift in Sources */,
+				2C9119CF271C9F55000E10AE /* TextFields.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
